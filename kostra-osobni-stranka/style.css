@@ -1,0 +1,33 @@
+@media (min-width: 40em) {
+  /* TODO */
+}
+
+@media (min-width: 60em) {
+  /* TODO */
+}
+
+@media (min-width: 80em) {
+  /* TODO */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* TODO */
+  }
+}
+
+@media (prefers-contrast: more) {
+  /* TODO */
+}
+
+@media (prefers-reduced-motion: reduce) {
+  /* TODO */
+}
+
+@media (prefers-reduced-transparency: reduce) {
+  /* TODO */
+}
+
+@media (forced-colors: active) {
+  /* TODO */
+}
